@@ -1,0 +1,43 @@
+{
+  "name": "ant-design-of-vue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "示例项目",
+  "author": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "ant-design-vue": "^1.7.6",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "ant-design-of-vue@1.0.0",
+  "bugs": {
+    "url": "https://github.com/qiangzhe0624/Ant-Design-of-Vue/issues"
+  },
+  "homepage": "https://github.com/qiangzhe0624/Ant-Design-of-Vue#readme",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiangzhe0624/Ant-Design-of-Vue.git"
+  }
+}
